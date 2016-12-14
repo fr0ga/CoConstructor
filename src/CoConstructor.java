@@ -15,6 +15,7 @@ public class CoConstructor {
         System.out.println();
 
         C c3 = new C(1,2,3);
+        // a1 a2 a3 b3 c3
 
 
     }
